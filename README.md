@@ -12,7 +12,9 @@ A pergunta foi: Qual a única forma quando inicio o meu try ele não cair no fin
 
 Try
 NaoCairNoFinally;
+
 Finally
+
 End; 
 
 Bom eu já sei a resposta até respondida pelo meu questionador que seria o HALT;
