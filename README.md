@@ -11,6 +11,7 @@ Em alguns bate papos que tive ultimamente em minha trajetória do Delphi e meus 
 A pergunta foi: Qual a única forma quando inicio o meu try ele não cair no finally?
 
 Try
+
 NaoCairNoFinally;
 
 Finally
