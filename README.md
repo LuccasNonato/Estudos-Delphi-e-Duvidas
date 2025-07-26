@@ -62,3 +62,7 @@ Outras complementações.
 Se buscarmos no google como system.halt mesmo não tendo um vinculo em sí com o nosso delphi temos as seguintes informações. 
 <img width="884" height="706" alt="image" src="https://github.com/user-attachments/assets/e924022f-d60f-4824-8aa8-570d1ed8e8be" />
 
+
+
+Deixo em aberto caso tenham alguma sujestão ou alteração sobre a busca. 
+Agradeço a todos! 
